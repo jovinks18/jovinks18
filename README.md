@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:312e81,100:111827&height=210&section=header&text=Jovin%20Sivakumar&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=customer%20problems%20%E2%86%92%20data%20signals%20%E2%86%92%20AI%20ops%20systems&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,45:1e3a8a,100:111827&height=210&section=header&text=Jovin%20Sivakumar&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=customer%20problems%20%E2%86%92%20data%20signals%20%E2%86%92%20AI%20ops%20systems&descAlignY=60&descSize=16" />
 </p>
 
 <p align="center">
@@ -15,11 +15,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=building+systems+around+messy+customer+problems.;turning+feedback+into+signals%2C+workflows%2C+and+better+decisions.;currently+mixing+AI+ops%2C+customer+success%2C+and+product+analytics." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=building+systems+around+messy+customer+problems.;turning+feedback+into+signals%2C+workflows%2C+and+better+decisions.;calm+execution%2C+sharp+systems%2C+clean+ops." />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897707-9224e9b0-9776-4ba5-a6f2-17e8eead4f42.gif" width="420" />
+  <img src="./assets/giyu-tomioka.gif" width="360" alt="Giyu Tomioka animation" />
+</p>
+
+<p align="center">
+  <i>calm execution, sharp systems, clean workflows.</i>
 </p>
 
 ---
