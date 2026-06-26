@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366f1&height=180&section=header&text=Jovin%20Sivakumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Customer%20Success%20%7C%20AI%20Ops%20%7C%20Product%20Analytics&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:312e81,100:111827&height=210&section=header&text=Jovin%20Sivakumar&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=customer%20problems%20%E2%86%92%20data%20signals%20%E2%86%92%20AI%20ops%20systems&descAlignY=60&descSize=16" />
 </p>
+
 <p align="center">
   <a href="mailto:jovin.sivakumar@berkeley.edu">
     <img src="https://img.shields.io/badge/Email-jovin.sivakumar%40berkeley.edu-111827?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -12,20 +13,34 @@
     <img src="https://img.shields.io/badge/Portfolio-View%20Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=I+build+systems+around+messy+customer+problems.;Customer+feedback+%E2%86%92+product+signals+%E2%86%92+operational+workflows.;AI+workflows%2C+support+ops%2C+dashboards%2C+and+startup+execution." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=building+systems+around+messy+customer+problems.;turning+feedback+into+signals%2C+workflows%2C+and+better+decisions.;currently+mixing+AI+ops%2C+customer+success%2C+and+product+analytics." />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897707-9224e9b0-9776-4ba5-a6f2-17e8eead4f42.gif" width="420" />
+</p>
+
 ---
+
 ## 👋 About me
+
 I’m a CS engineer turned business graduate, currently finishing a Master in Management across **UC Berkeley Haas, EDHEC Paris, and SKKU GSB**.
+
 I’m interested in the space where **customer problems, data, and product decisions meet**. I’ve worked across customer success, business intelligence, and product operations, using customer signals, dashboards, and automation workflows to help teams move faster and make better decisions.
+
 Currently focused on:
+
 - building AI-native support and operations workflows
 - turning messy customer feedback into structured product signals
 - improving onboarding, implementation, and post-sales processes
 - creating lightweight internal tools for early-stage teams
+
 ---
+
 ## 🧠 What I work on
+
 <table>
   <tr>
     <td width="33%">
@@ -42,7 +57,9 @@ Currently focused on:
     </td>
   </tr>
 </table>
+
 ---
+
 ## 🛠️ Tools I use
 
 ### Data, Analytics & BI
@@ -104,51 +121,13 @@ Currently focused on:
   <img src="https://img.shields.io/badge/PowerPoint-Presentations-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-Web%20Design-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
+
 ---
+
 ## 📌 Experience snapshot
+
 ```txt
-Maki People        Customer Success / Analytics / Product Feedback
-AB InBev Europe   BI Dashboards / Logistics Reporting / KPI Automation
+Maki People       Customer Success / Analytics / Product Feedback
+AB InBev Europe   Business Intelligence / Logistics Reporting / Data Analyst
 Zolostays         Product Discovery / Marketplace Analytics
 UC Berkeley Haas  Product, Customer Experience, AI for Business
-
-⸻
-
-🌱 Currently exploring
-
-* AI agents for customer success and support operations
-* CRM enrichment and account health automation
-* post-sales workflows for early-stage B2B startups
-* lightweight internal tools using LLMs, APIs, and structured data
-* better ways to turn customer conversations into product decisions
-
-⸻
-
-📊 GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jovinks18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovinks18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jovinks18&theme=tokyonight&hide_border=true" />
-</p>
-
-⸻
-
-🧩 A bit more human
-
-Grew up in code, then got curious about how companies actually work.
-Studied across Paris, Seoul, and Berkeley.
-Usually thinking about startup systems, customer problems, AI workflows, perfumes, football, cooking, or house music.
-
-⸻
-
-<p align="center">
-  <i>Building at the intersection of customer problems, data, product, and AI operations.</i>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:111827&height=120&section=footer" />
-</p>
-```
-:::
