@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=building+systems+around+messy+problems.;finding+signals+inside+the+noise.;calm+execution.+sharp+systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=still+water.+steady+blade.;finding+the+signal+hidden+inside+the+noise.;observe+quietly.+execute+precisely." />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <i>observe quietly. build deliberately.</i>
+  <i>no wasted motion.</i>
 </p>
 
 ---
