@@ -1,7 +1,7 @@
 <h1 align="center">Jovin Sivakumar</h1>
 
 <p align="center">
-  customer signals → systems → better decisions
+  Customer operations · AI workflows · Product systems
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=D1D5DB&center=true&vCenter=true&width=900&lines=still+water.+steady+blade.;finding+the+signal+hidden+inside+the+noise.;observe+quietly.+execute+precisely." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=D1D5DB&center=true&vCenter=true&width=900&lines=customer+signals+into+operating+systems;post-sales+workflows+with+clearer+ownership;AI+tools+that+reduce+manual+coordination" />
 </p>
 
 <p align="center">
@@ -32,45 +32,45 @@
 
 ## About
 
-CS engineer turned business operator.
+I work at the intersection of customer operations, product feedback, data, and AI-enabled workflows.
+
+My background combines computer science, business operations, and customer-facing implementation work across early-stage SaaS, AI products, and large-scale analytics teams.
 
 Currently completing a Master in Management across **UC Berkeley Haas, EDHEC Paris, and SKKU GSB**.
 
-I work where customer problems, data, product, and operations overlap.
+I am most interested in building systems that make customer-facing teams faster, clearer, and more consistent:
 
-Mostly interested in:
-
-- customer signals
-- AI-enabled workflows
-- internal tools
-- product feedback loops
-- systems that remove friction
+- turning support and onboarding signals into product feedback
+- designing escalation and ownership workflows
+- building internal tools for operators
+- automating repetitive coordination work
+- using AI where it improves accuracy, speed, or decision quality
 
 ---
 
-## Areas of focus
+## Current focus
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Customer Systems</h3>
+      <h3>Post-sales systems</h3>
       <p>
-        Onboarding, support, health signals, escalation paths,
-        implementation blockers, and post-sales workflows.
+        Customer onboarding, support intake, account health, escalation paths,
+        implementation blockers, and CSM workflows.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>AI Operations</h3>
+      <h3>AI operations</h3>
       <p>
-        Agents, automations, structured extraction,
-        internal tooling, and lightweight operational systems.
+        Supervised agents, workflow automation, structured extraction,
+        internal tooling, and human-in-the-loop systems.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Product Signals</h3>
+      <h3>Product feedback loops</h3>
       <p>
-        Feedback, behavior, dashboards, friction,
-        and the patterns hiding underneath.
+        Converting customer issues, usage patterns, and operational friction
+        into clear product priorities and execution inputs.
       </p>
     </td>
   </tr>
@@ -78,54 +78,15 @@ Mostly interested in:
 
 ---
 
-## Toolkit
+## Selected project
 
-### Engineering
+### Linea
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,fastapi,docker,git,github,figma,notion,postman&perline=11" />
-</p>
+A supervised AI post-sales command center for customer operations teams.
 
-### Data and analytics
+Linea turns customer messages into structured cases, account context, policy-governed actions, and auditable operator workflows.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-111111?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-### Customer and product operations
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Intercom-111111?style=for-the-badge&logo=intercom&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot-111111?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linear-111111?style=for-the-badge&logo=linear&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-
-### AI and automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-111111?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-111111?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-111111?style=for-the-badge&logo=powerautomate&logoColor=white" />
-</p>
-
----
-
-## Selected work
+Built with:
 
 ```txt
-Maki People       customer signals, SaaS operations, product feedback
-
-AB InBev Europe   business intelligence, automation, regional reporting
-
-Zolostays         product discovery, marketplace behavior
-
-Independent       AI workflows, internal tools, experimental systems
+Next.js · TypeScript · PostgreSQL · Docker · AI workflow orchestration
