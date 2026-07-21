@@ -32,7 +32,7 @@
 
 ## About
 
-I work at the intersection of customer operations, product feedback, data, and AI-enabled workflows.
+I work at the intersection of customer operations, product, data, and AI-enabled workflows.
 
 My background combines computer science, business operations, and customer-facing implementation work across early-stage SaaS, AI products, and large-scale analytics teams.
 
