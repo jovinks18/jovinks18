@@ -1,7 +1,7 @@
 <h1 align="center">Jovin Sivakumar</h1>
 
 <p align="center">
-  Customer operations · AI workflows · Product systems
+  Customer Experience · AI Products · Business Operations
 </p>
 
 <p align="center">
