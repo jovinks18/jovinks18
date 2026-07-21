@@ -40,6 +40,7 @@ Currently completing a Master in Management across **UC Berkeley Haas, EDHEC Par
 
 I am most interested in building systems that make customer-facing teams faster, clearer, and more consistent:
 
+- building useful products
 - turning support and onboarding signals into product feedback
 - designing escalation and ownership workflows
 - building internal tools for operators
